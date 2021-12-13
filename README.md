@@ -1,4 +1,4 @@
-# DataCamp_Projects
+# DataCamp Data Science Projects
 Repository containing guided and unguided projects completed during DataCamp courses.
 
 #### Guided Projects
