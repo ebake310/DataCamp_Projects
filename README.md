@@ -6,4 +6,4 @@ Repository containing guided and unguided projects completed during DataCamp cou
 
 [Google_Play_App_Analysis.ipynb](/Google_Play_App_Analysis.ipynb) shows a simple analysis of factoring affecting the apps downloaded through Google Play, such as price, and rating, category.
 
-[GitHub History Scala Analysis.ipynb](/GitHub History Scala Analysis.ipynb) Analysis of the Scala repository, looking at recent pull requests and developer contributions.
+[GitHub_History_Scala.ipynb](/GitHub_History_Scala.ipynb) Analysis of the Scala repository, looking at recent pull requests and developer contributions.
